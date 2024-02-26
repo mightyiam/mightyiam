@@ -21,12 +21,12 @@ Revenue sources:
 - open source contract work
 
 This show will be the de-facto example of how to develop software as a team.
-Wor1ldwide, individuals will watch and recommend watching this show.
+Worldwide, individuals will watch and recommend watching this show.
 Similar shows will follow.
 
 I have the time, the skill to facilitate the mob format and I have involvement in open source.
 
-I need an investor to enable a trial period, in which 4 developers will be contracted.
+I need an investor to enable a trial period, in which four developers and I will be contracted.
 We will work in mob programming format on some open source projects.
 
 I expect the greatest success among the North American audience, but I suppose the trial can occur outside of their hours, as well.
