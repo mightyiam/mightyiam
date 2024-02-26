@@ -1,8 +1,8 @@
 So, here's my vision. I'd like to work on open source software.
 And I'd like to work in mob programming format.
-More particularly, I'd like to do Rust and I like the Nix ecosystem.
+I'd like to do Rust and I like the Nix ecosystem.
 
-Here's an idea: a mob that works on various open source projects live stream, publicly.
+Here's an idea: a mob that works on various open source projects live streamed, publicly.
 It provides value to viewers:
 get to learn from real, world-class software development.
 Five experienced software developers of diverse backgrounds working together and skill sharing between them.
@@ -32,3 +32,11 @@ We will work in mob programming format on some open source projects.
 I expect the greatest success among the North American audience, but I suppose the trial can occur outside of their hours, as well.
 
 The mob's schedule will be six hours per day.
+
+Some projects I have in mind:
+
+The first project I have in mind is Improving the Nix documentation, including tooling.
+Drastically and thoroughly improving it.
+
+An idea: compensating viewers for their advice.
+Monetary tips are paid to members of the audience for good advice that they've provided the mob with.
