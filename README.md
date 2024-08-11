@@ -49,8 +49,7 @@ For a premium.
 
 ## How much does it cost?
 
-Special rate of 50 EUR (or equivalent in your currency) per hour until my schedule fills up.
-No added tax.
+30 EUR per hour. No added tax.
 
 ## How do you invoice?
 
