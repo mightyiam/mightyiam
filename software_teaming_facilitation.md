@@ -66,7 +66,7 @@ If you're not happy don't pay.
 
 ## How do I schedule sessions?
 
-[Schedule here](https://koalendar.com/e/paid-mob-programming-facilitation) or contact me.
+Contact [me](https://github.com/mightyiam).
 
 ## How should the team prepare for the first session?
 
