@@ -1,4 +1,4 @@
-I offer [Software Teaming](https://softwareteaming.com/) [facilitation](./software_teaming_facilitation).
+I offer [Software Teaming](https://softwareteaming.com/) [facilitation](./software_teaming_facilitation.md).
 
 I do the [Full Time Nix podcast](https://fulltimenix.com) with the help of the [Nix](https://nix.dev) community.
 
