@@ -1,4 +1,4 @@
-[Full Time Nix Podcast](http://fulltimenix.com) | [Molybdenum Software Show](https://www.youtube.com/@molybdenumsoftware) | software teaming | open source | Nix | Rust
+[Full Time Nix Podcast](http://fulltimenix.com) | [Molybdenum Software Show](https://www.youtube.com/@molybdenumsoftware) | Software Teaming | open source | Nix | Rust
 
 ## Struggling with Nix?
 
