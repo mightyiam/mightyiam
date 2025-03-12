@@ -17,3 +17,5 @@ Message me to book 🗓️.
 
 > [!NOTE]
 > Limited availability ⏳
+
+---
