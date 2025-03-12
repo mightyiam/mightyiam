@@ -1,3 +1,6 @@
+
+---
+
 🎙️ [Full Time Nix Podcast](http://fulltimenix.com)  
 📽️ [Molybdenum Software Show](https://www.youtube.com/@molybdenumsoftware)  
 🏀 [Software Teaming](https://softwareteaming.com/) facilitator  
