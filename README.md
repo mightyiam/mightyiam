@@ -1,8 +1,8 @@
-🎙️ [Full Time Nix Podcast](http://fulltimenix.com)  
-📽️ [Molybdenum Software Show](https://www.youtube.com/@molybdenumsoftware)  
-🏀 [Software Teaming](https://softwareteaming.com/) facilitator  
-🐧 Open source since 𝟸𝟶𝟶𝟺  
-🦀 Has been known to do some [Rust](https://rustlang.org)
+🎙️ Doing [a Nix podcast](http://fulltimenix.com)  
+📽️ Making public [entire sessions of synchronous collaboration on open source software](https://www.youtube.com/@molybdenumsoftware)  
+🏀 Facilitating [synchronous collaboration](https://softwareteaming.com/)  
+🐧 Contributing to open source software since 2014
+🦀 Have been known to do some Rust
 
 ---
 
