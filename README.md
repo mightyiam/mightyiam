@@ -30,10 +30,10 @@ Here is a [📅 public calendar of sessions scheduled with collaborators](https:
 > please [message me](#message-me).
 
 - [ ] __Nixpkgs module system config graph__ @roberth
-  Contributing a feature to the [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) that enables obtaining a tree data structure of the modules that were involved in the evaluation of a configuration.
+  Contributing a feature to the [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) that enables obtaining a tree data structure of the modules that were involved in the evaluation of a configuration.  
   ([discussion](https://discourse.nixos.org/t/obtaining-a-nixpkgs-module-system-configuration-modules-graph/63286?u=mightyiam))
 - [ ] __Comparing Nixpkgs module system configs__ @aforemny @roberth @fzakaria @A-jay98
-  Contributing a feature to [Nix itself](https://github.com/NixOS/nix) to enable the use case of comparing [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) configurations.
+  Contributing a feature to [Nix itself](https://github.com/NixOS/nix) to enable the use case of comparing [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) configurations.  
   ([discussion](https://discourse.nixos.org/t/comparing-module-system-configurations/59654/13?u=mightyiam))
 - [ ] __Vula Nix packaging__ ([sponsored by NLNet](https://nlnet.nl/project/Vula/))
   Nixify the [Vula automatic local network encryption project](https://codeberg.org/vula/vula):
@@ -41,10 +41,10 @@ Here is a [📅 public calendar of sessions scheduled with collaborators](https:
   - Contribute the dependency tree to Nixpkg
   - Upstream [the Vula Nix packaging that is currently in NGIpkgs](https://ngi.nixos.org/project/Vula/)
 - [ ] __Nix-powered documentation example testing__ @jfly
-  Intended to be first used to test examples in https://nix.dev.
+  Intended to be first used to test examples in https://nix.dev.  
   ([project repo (and branch)](https://github.com/mobusoperandi/eelco/tree/mob/thaigersprint-2025))
 - [ ] __Nixpkgs pr-tracker API__ @jfly @ModProg @Samyak2 @sarcasticadmin
-  Rust project aims to serve the official [Nixpkgs](https://github.com/NixOS/nixpkgs) infrastructure and public user base, making use of GitHub API, [poem](https://github.com/poem-web/poem) and [gitoxide](https://github.com/GitoxideLabs/gitoxide).
+  Rust project aims to serve the official [Nixpkgs](https://github.com/NixOS/nixpkgs) infrastructure and public user base, making use of GitHub API, [poem](https://github.com/poem-web/poem) and [gitoxide](https://github.com/GitoxideLabs/gitoxide).  
   ([project repo](https://github.com/molybdenumsoftware/pr-tracker))
 
 ## Ideas 💡
