@@ -63,5 +63,6 @@ Here is a [📅 public calendar of sessions scheduled with collaborators](https:
 
 - Matrix: [`@mightyiam:matrix.org`](https://matrix.to/#/@mightyiam:matrix.org)
 - Discord: `mightyiam`
+- X: [`mightyiam`](https://x.com/mightyiam)
 - Telegram: [`mightyiam`](https://t.me/mightyiam)
 - Email: [`mightyiampresence@gmail.com`](mailto:mightyiampresence@gmail.com)
