@@ -1,5 +1,5 @@
 > [!TIP]
-> 🎙️ Learn a lot and keep up to date about Nix by listening to my podcast, [Full Time Nix](http://fulltimenix.com).
+> 🎙️ Learn about and keep up to date with Nix by listening to my podcast [Full Time Nix](http://fulltimenix.com).
 
 > [!NOTE]
 > __Attain Nix ❄️ proficiency using expert 🥼 guidance__
