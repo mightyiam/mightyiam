@@ -2,8 +2,7 @@
 > 🎙️ Learn about and keep up to date with Nix by listening to my podcast [Full Time Nix](http://fulltimenix.com).
 
 > [!TIP]
-> 📽️ Full un-edited sychronous open source collaboration sessions for free: [Molybdenum Software](https://www.youtube.com/@molybdenumsoftware).
-> If you have plenty of time and seeking to learn you may benefit from watching these.
+> 📽️ Full un-edited sychronous open source collaboration sessions, no cost—[Molybdenum Software](https://www.youtube.com/@molybdenumsoftware).
 
 > [!NOTE]
 > __Attain Nix ❄️ proficiency using expert 🥼 guidance__
