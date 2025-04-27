@@ -16,8 +16,9 @@
 > 📽️ Some sessions are [recorded and published here](https://www.youtube.com/@molybdenumsoftware).
 > If you have plenty of time and seeking to learn you may benefit from watching these.
 
-If you wish to join [message me](#message-me).
-Here is a [📅 public calendar of sessions scheduled with collaborators](https://calendar.google.com/calendar/embed?src=20161ad99705885e8400a77b86482afa0ff13183375e639faed6b1c425a40a86%40group.calendar.google.com).
+See whether [📅 currently scheduled sessions](https://calendar.google.com/calendar/embed?src=20161ad99705885e8400a77b86482afa0ff13183375e639faed6b1c425a40a86%40group.calendar.google.com) work for you.
+Scheduling new ones may also be possible.
+[Message me](#message-me) to coordinate.
 
 > [!NOTE]
 > You don't need to be a top 👷 engineer.
