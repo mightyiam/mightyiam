@@ -5,13 +5,13 @@
 > 📽️ Full un-edited sychronous open source collaboration sessions, no cost—[Molybdenum Software](https://www.youtube.com/@molybdenumsoftware).
 
 > [!NOTE]
-> __Attain Nix ❄️ proficiency using expert 🥼 guidance__
+> __Attain Nix proficiency using expert guidance__
 > 
-> I offer hands-on 🪖 consulting and training for individuals 👷 and teams,
-> tailored to your real-world 🏗️ challenges.
+> I offer hands-on consulting and training for individuals and teams 👷,
+> tailored to your real-world challenges 🏗️.
 > Pay what suits you—suggested \$25–\$75/hr based on the value ⚖️ delivered.
-> [_Please tell me 👂 about your problem_](#message-me).
-> __Limited ⏳ availability__
+> [_Please tell me about your problem_](#message-me) 👂.
+> __Limited availability__ ⏳
 
 ## Collaborate synchronously ⌨️🖥️ with me on open source software
 
