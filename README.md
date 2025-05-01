@@ -7,7 +7,7 @@
 > [!NOTE]
 > __Attain Nix proficiency using expert guidance__
 > 
-> I offer hands-on consulting and training for individuals and teams 👷,
+> I offer hands-on consulting and training for individuals and teams 👷
 > tailored to your real-world challenges 🏗️.
 > Pay what suits you—suggested \$25–\$75/hr based on the value ⚖️ delivered.
 > [_Please tell me about your problem_](#message-me) 👂.
