@@ -39,6 +39,7 @@ Scheduling new ones may also be possible.
 - [ ] __Comparing Nixpkgs module system configs__ @aforemny @roberth @fzakaria @A-jay98
   Contributing a feature to [Nix itself](https://github.com/NixOS/nix) to enable the use case of comparing [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) configurations.  
   ([discussion](https://discourse.nixos.org/t/comparing-module-system-configurations/59654/13?u=mightyiam))
+  ([pull request](https://github.com/NixOS/nix/pull/13095))
 - [ ] __Vula Nix packaging__ ([sponsored by NLNet](https://nlnet.nl/project/Vula/))
   Nixify the [Vula automatic local network encryption project](https://codeberg.org/vula/vula):
   - Package [highctidh](https://codeberg.org/vula/highctidh) (Vula dependency) in Nix upstream
