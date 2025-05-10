@@ -32,7 +32,7 @@ Scheduling new ones may also be possible.
 - [ ] __The Dendritic Pattern__
   Documenting a [flake-parts](https://flake.parts) usage pattern which I believe provides great value for its users.  
   ([project repo](https://github.com/mightyiam/dendritic))
-- [ ] __Nixpkgs module system config graph__ @roberth
+- [ ] __Nixpkgs module system config graph__ @A-jay98 @roberth
   Contributing a feature to the [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) that enables obtaining a tree data structure of the modules that were involved in the evaluation of a configuration.  
   ([discussion](https://discourse.nixos.org/t/obtaining-a-nixpkgs-module-system-configuration-modules-graph/63286?u=mightyiam))
 - [ ] __Comparing Nixpkgs module system configs__ @aforemny @roberth @fzakaria @A-jay98
