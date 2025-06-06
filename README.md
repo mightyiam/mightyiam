@@ -29,30 +29,30 @@ Scheduling new ones may also be possible.
 > If you wish to expedite any of these projects and have budget for that
 > please [message me](#message-me).
 
-- [ ] __Integrated patched flake inputs__
-  Documenting a pattern for maintaining and using patched flake input branches.  
+- [ ] __Integrated patched flake inputs__<br>
+  Documenting a pattern for maintaining and using patched flake input branches.<br>
   ([discussion](https://discourse.nixos.org/t/pattern-integrated-patched-flake-inputs/65268?u=mightyiam))
-- [ ] __The Dendritic Pattern__
-  Documenting a [flake-parts](https://flake.parts) usage pattern which I believe provides great value for its users.  
+- [ ] __The Dendritic Pattern__<br>
+  Documenting a [flake-parts](https://flake.parts) usage pattern which I believe provides great value for its users.<br>
   ([project repo](https://github.com/mightyiam/dendritic))
-- [ ] __Nixpkgs module system config graph__ @A-jay98 @roberth
-  Contributing a feature to the [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) that enables obtaining a tree data structure of the modules that were involved in the evaluation of a configuration.  
+- [ ] __Nixpkgs module system config graph__ @A-jay98 @roberth<br>
+  Contributing a feature to the [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) that enables obtaining a tree data structure of the modules that were involved in the evaluation of a configuration.<br>
   ([discussion](https://discourse.nixos.org/t/obtaining-a-nixpkgs-module-system-configuration-modules-graph/63286?u=mightyiam))
   ([pull request](https://github.com/NixOS/nixpkgs/pull/403839))
-- [ ] __Comparing Nixpkgs module system configs__ @aforemny @roberth @fzakaria @A-jay98
-  Contributing a feature to [Nix itself](https://github.com/NixOS/nix) to enable the use case of comparing [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) configurations.  
+- [ ] __Comparing Nixpkgs module system configs__ @aforemny @roberth @fzakaria @A-jay98<br>
+  Contributing a feature to [Nix itself](https://github.com/NixOS/nix) to enable the use case of comparing [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) configurations.<br>
   ([discussion](https://discourse.nixos.org/t/comparing-module-system-configurations/59654/13?u=mightyiam))
   ([pull request](https://github.com/NixOS/nix/pull/13095))
-- [ ] __Vula Nix packaging__ ([sponsored by NLNet](https://nlnet.nl/project/Vula/))
+- [ ] __Vula Nix packaging__ ([sponsored by NLNet](https://nlnet.nl/project/Vula/))<br>
   Nixify the [Vula automatic local network encryption project](https://codeberg.org/vula/vula):
   - Package [highctidh](https://codeberg.org/vula/highctidh) (Vula dependency) in Nix upstream
   - Contribute the dependency tree to Nixpkg
   - Upstream [the Vula Nix packaging that is currently in NGIpkgs](https://ngi.nixos.org/project/Vula/)
-- [ ] __Nix-powered documentation example testing__ @jfly
-  Intended to be first used to test examples in https://nix.dev.  
+- [ ] __Nix-powered documentation example testing__ @jfly<br>
+  Intended to be first used to test examples in https://nix.dev.<br>
   ([project repo (and branch)](https://github.com/mobusoperandi/eelco/tree/mob/thaigersprint-2025))
-- [ ] __Nixpkgs pr-tracker API__ @jfly @ModProg @Samyak2 @sarcasticadmin
-  Rust project aims to serve the official [Nixpkgs](https://github.com/NixOS/nixpkgs) infrastructure and public user base, making use of GitHub API, [poem](https://github.com/poem-web/poem) and [gitoxide](https://github.com/GitoxideLabs/gitoxide).  
+- [ ] __Nixpkgs pr-tracker API__ @jfly @ModProg @Samyak2 @sarcasticadmin<br>
+  Rust project aims to serve the official [Nixpkgs](https://github.com/NixOS/nixpkgs) infrastructure and public user base, making use of GitHub API, [poem](https://github.com/poem-web/poem) and [gitoxide](https://github.com/GitoxideLabs/gitoxide).<br>
   ([project repo](https://github.com/molybdenumsoftware/pr-tracker))
 
 ## Ideas 💡
