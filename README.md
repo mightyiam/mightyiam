@@ -29,6 +29,9 @@ Scheduling new ones may also be possible.
 > If you wish to expedite any of these projects and have budget for that
 > please [message me](#message-me).
 
+- [ ] __Integrated patched flake inputs__
+  Documenting a pattern for maintaining and using patched flake input branches.  
+  ([discussion](https://discourse.nixos.org/t/pattern-integrated-patched-flake-inputs/65268?u=mightyiam))
 - [ ] __The Dendritic Pattern__
   Documenting a [flake-parts](https://flake.parts) usage pattern which I believe provides great value for its users.  
   ([project repo](https://github.com/mightyiam/dendritic))
