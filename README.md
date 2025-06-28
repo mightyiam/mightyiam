@@ -29,6 +29,10 @@ Scheduling new ones may also be possible.
 > If you wish to expedite any of these projects and have budget for that
 > please [message me](#message-me).
 
+- [x] __mightyiam/files__<br>
+  In-repository file generation [flake-parts](https://flake.parts) module<br>
+  ([project repo](https://github.com/mightyiam/files))
+  ([flake-parts page](https://flake.parts/options/files.html))
 - [ ] __Integrated patched flake inputs__<br>
   Documenting a pattern for maintaining and using patched flake input branches.<br>
   ([discussion](https://discourse.nixos.org/t/pattern-integrated-patched-flake-inputs/65268?u=mightyiam))
@@ -61,8 +65,6 @@ Scheduling new ones may also be possible.
 > If you'd like to see any of these ideas come to life and have budget for that
 > please [message me](#message-me).
 
-- [flake-parts](https://flake.parts) module for confirming ✔️ the existence and contents of checked in files (or generating 🏭 them)
-- [flake-parts](https://flake.parts) module that uses the above for `.gitignore` specifically
 - [flake-parts](https://flake.parts) documentation overhaul ✒️📖
 - Rust 🦀 library for reactive programming ⚡
 - Nix library for declarative document generation (first output format HTML)
