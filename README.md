@@ -23,16 +23,19 @@ Scheduling new ones may also be possible.
 > You don't need to be a top 👷 engineer.
 > You need to show up ☑️ and be a reasonable 👍 one.
 
+## Published 🚢
+
+- [x] __mightyiam/files__<br>
+  In-repository file generation [flake-parts](https://flake.parts) module<br>
+  ([project repo](https://github.com/mightyiam/files))
+  ([flake-parts page](https://flake.parts/options/files.html))
+
 ## In-progress projects 🛠️
 
 > [!IMPORTANT]
 > If you wish to expedite any of these projects and have budget for that
 > please [message me](#message-me).
 
-- [x] __mightyiam/files__<br>
-  In-repository file generation [flake-parts](https://flake.parts) module<br>
-  ([project repo](https://github.com/mightyiam/files))
-  ([flake-parts page](https://flake.parts/options/files.html))
 - [ ] __Integrated patched flake inputs__<br>
   Documenting a pattern for maintaining and using patched flake input branches.<br>
   ([discussion](https://discourse.nixos.org/t/pattern-integrated-patched-flake-inputs/65268?u=mightyiam))
