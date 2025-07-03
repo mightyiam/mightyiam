@@ -29,6 +29,9 @@ Scheduling new ones may also be possible.
   In-repository file generation [flake-parts](https://flake.parts) module<br>
   ([project repo](https://github.com/mightyiam/files))
   ([flake-parts page](https://flake.parts/options/files.html))
+- [x] __mightyiam/input-branches__<br>
+  Workflow and flake-part for flake input patching using imported git branches<br>
+  ([project repo](https://github.com/mightyiam/input-branches))
 
 ## In-progress projects 🛠️
 
@@ -36,9 +39,6 @@ Scheduling new ones may also be possible.
 > If you wish to expedite any of these projects and have budget for that
 > please [message me](#message-me).
 
-- [ ] __Integrated patched flake inputs__<br>
-  Documenting a pattern for maintaining and using patched flake input branches.<br>
-  ([discussion](https://discourse.nixos.org/t/pattern-integrated-patched-flake-inputs/65268?u=mightyiam))
 - [ ] __The Dendritic Pattern__<br>
   Documenting a [flake-parts](https://flake.parts) usage pattern which I believe provides great value for its users.<br>
   ([project repo](https://github.com/mightyiam/dendritic))
