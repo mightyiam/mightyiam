@@ -32,6 +32,7 @@ Scheduling new ones may also be possible.
 - [x] __mightyiam/input-branches__<br>
   Workflow and flake-part for flake input patching using imported git branches<br>
   ([project repo](https://github.com/mightyiam/input-branches))
+  ([flake-parts page](https://flake.parts/options/input-branches))
 
 ## In-progress projects 🛠️
 
