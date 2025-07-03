@@ -28,11 +28,11 @@ Scheduling new ones may also be possible.
 - [x] __mightyiam/files__<br>
   In-repository file generation [flake-parts](https://flake.parts) module<br>
   ([project repo](https://github.com/mightyiam/files))
-  ([flake-parts page](https://flake.parts/options/files))
+  ([flake.parts page](https://flake.parts/options/files))
 - [x] __mightyiam/input-branches__<br>
   Workflow and flake-part for flake input patching using imported git branches<br>
   ([project repo](https://github.com/mightyiam/input-branches))
-  ([flake-parts page](https://flake.parts/options/input-branches))
+  ([flake.parts page](https://flake.parts/options/input-branches))
 
 ## In-progress projects 🛠️
 
