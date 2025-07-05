@@ -33,6 +33,11 @@ Scheduling new ones may also be possible.
   Workflow and flake-part for flake input patching using imported git branches<br>
   ([project repo](https://github.com/mightyiam/input-branches))
   ([flake.parts page](https://flake.parts/options/input-branches))
+- [x] __Vula Nix packaging__ ([sponsored by NLNet](https://nlnet.nl/project/Vula/))<br>
+  Nixify the [Vula automatic local network encryption project](https://codeberg.org/vula/vula):
+  - Package [highctidh](https://codeberg.org/vula/highctidh) (Vula dependency) in Nix upstream
+  - Contribute the dependency tree to Nixpkg
+  - Upstream [the Vula Nix packaging that is currently in NGIpkgs](https://ngi.nixos.org/project/Vula/)
 
 ## In-progress projects 🛠️
 
@@ -51,11 +56,6 @@ Scheduling new ones may also be possible.
   Contributing a feature to [Nix itself](https://github.com/NixOS/nix) to enable the use case of comparing [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) configurations.<br>
   ([discussion](https://discourse.nixos.org/t/comparing-module-system-configurations/59654/13?u=mightyiam))
   ([pull request](https://github.com/NixOS/nix/pull/13095))
-- [x] __Vula Nix packaging__ ([sponsored by NLNet](https://nlnet.nl/project/Vula/))<br>
-  Nixify the [Vula automatic local network encryption project](https://codeberg.org/vula/vula):
-  - Package [highctidh](https://codeberg.org/vula/highctidh) (Vula dependency) in Nix upstream
-  - Contribute the dependency tree to Nixpkg
-  - Upstream [the Vula Nix packaging that is currently in NGIpkgs](https://ngi.nixos.org/project/Vula/)
 - [ ] __Nix-powered documentation example testing__ @jfly<br>
   Intended to be first used to test examples in https://nix.dev.<br>
   ([project repo (and branch)](https://github.com/mobusoperandi/eelco/tree/mob/thaigersprint-2025))
