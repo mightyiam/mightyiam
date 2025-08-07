@@ -25,6 +25,10 @@ Scheduling new ones may also be possible.
 
 ## Published 🚢
 
+- [x] __Nixpkgs module system config graph__ @A-jay98 @roberth<br>
+  Contributing a feature to the [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) that enables obtaining a tree data structure of the modules that were involved in the evaluation of a configuration.<br>
+  ([discussion](https://discourse.nixos.org/t/obtaining-a-nixpkgs-module-system-configuration-modules-graph/63286?u=mightyiam))
+  ([pull request](https://github.com/NixOS/nixpkgs/pull/403839))
 - [x] __mightyiam/files__<br>
   In-repository file generation [flake-parts](https://flake.parts) module<br>
   ([project repo](https://github.com/mightyiam/files))
@@ -51,10 +55,6 @@ Scheduling new ones may also be possible.
 - [ ] __The Dendritic Pattern__<br>
   Documenting a [flake-parts](https://flake.parts) usage pattern which I believe provides great value for its users.<br>
   ([project repo](https://github.com/mightyiam/dendritic))
-- [ ] __Nixpkgs module system config graph__ @A-jay98 @roberth<br>
-  Contributing a feature to the [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) that enables obtaining a tree data structure of the modules that were involved in the evaluation of a configuration.<br>
-  ([discussion](https://discourse.nixos.org/t/obtaining-a-nixpkgs-module-system-configuration-modules-graph/63286?u=mightyiam))
-  ([pull request](https://github.com/NixOS/nixpkgs/pull/403839))
 - [ ] __Comparing Nixpkgs module system configs__ @aforemny @roberth @fzakaria @A-jay98<br>
   Contributing a feature to [Nix itself](https://github.com/NixOS/nix) to enable the use case of comparing [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) configurations.<br>
   ([discussion](https://discourse.nixos.org/t/comparing-module-system-configurations/59654/13?u=mightyiam))
