@@ -25,6 +25,7 @@ Scheduling new ones may also be possible.
 
 ## Published 🚢
 
+- [x] Accumulated maintenance work on the [statix](https://github.com/molybdenumsoftware/statix) project
 - [x] __Nixpkgs module system config graph__ @A-jay98 @roberth<br>
   Contributing a feature to the [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) that enables obtaining a tree data structure of the modules that were involved in the evaluation of a configuration.<br>
   ([discussion](https://discourse.nixos.org/t/obtaining-a-nixpkgs-module-system-configuration-modules-graph/63286?u=mightyiam))
@@ -51,7 +52,7 @@ Scheduling new ones may also be possible.
 
 - [ ] __statix project maintenance__ @A-jay98<br>
   Maintaining the statix Nix linter and possibly applying it to Nixpkgs<br>
-  ([project repo](https://github.com/oppiliappan/statix))
+  ([project repo](https://github.com/molybdenumsoftware/statix))
 - [ ] __The Dendritic Pattern__<br>
   Documenting a [flake-parts](https://flake.parts) usage pattern which I believe provides great value for its users.<br>
   ([project repo](https://github.com/mightyiam/dendritic))
