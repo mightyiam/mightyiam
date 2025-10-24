@@ -6,7 +6,7 @@ http://fulltimenix.com
 ## 📺 The Molybdenum Software Show
 
 Watch open source contribution in mob programming format:  
-https://youtube.com/@molybdenumsoftware
+https://molybdenum.software
 
 ## Expert guidance
 
