@@ -1,27 +1,20 @@
-> [!TIP]
-> 🎙️ Learn about and keep up to date with Nix by listening to my podcast [Full Time Nix](http://fulltimenix.com).
+## 🎙️The Full Time Nix podcast
 
-> [!TIP]
-> 📽️ Watch full un-edited sychronous open source collaboration sessions, no cost—[Molybdenum Software](https://www.youtube.com/@molybdenumsoftware).
+Learn about and keep up to date with Nix/NixOS:  
+http://fulltimenix.com
 
-> [!NOTE]
-> __Attain Nix proficiency using expert guidance__
-> 
-> I offer hands-on consulting and training for individuals and teams 👷
-> tailored to your real-world challenges 🏗️.
-> Pay what suits you—suggested \$25–\$75/hr based on the value ⚖️ delivered.
-> [_Please tell me about your problem_](#message-me) 👂.
-> __Limited availability__ ⏳
+## 📺 The Molybdenum Software Show
 
-## Collaborate synchronously ⌨️🖥️ with me on open source software
+Watch open source contribution in mob programming format:  
+https://youtube.com/@molybdenumsoftware
 
-See whether [📅 currently scheduled sessions](https://calendar.google.com/calendar/embed?src=20161ad99705885e8400a77b86482afa0ff13183375e639faed6b1c425a40a86%40group.calendar.google.com) work for you.
-Scheduling new ones may also be possible.
-[Message me](#message-me) to coordinate.
+## Expert guidance
 
-> [!NOTE]
-> You don't need to be a top 👷 engineer.
-> You need to show up ☑️ and be a reasonable 👍 one.
+I offer hands-on consulting and training for individuals and teams 👷
+tailored to your real-world challenges 🏗️.
+Pay what suits you—suggested \$25–\$75/hr based on the value ⚖️ delivered.
+[_Please tell me about your problem_](#message-me) 👂.
+__Limited availability__ ⏳
 
 ## Published 🚢
 
