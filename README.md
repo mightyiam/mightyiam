@@ -77,3 +77,7 @@ __Limited availability__ ⏳
 - X: [`mightyiam`](https://x.com/mightyiam)
 - Telegram: [`mightyiam`](https://t.me/mightyiam)
 - Email: [`mightyiampresence@gmail.com`](mailto:mightyiampresence@gmail.com)
+
+## Extras
+
+- https://github.com/NixOS/moderation/commit/0bbff82d4ef90438a8adb8882efffc6ccc538646
