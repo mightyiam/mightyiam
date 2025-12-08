@@ -1,23 +1,55 @@
-## 🎙️The Full Time Nix podcast
+## The Full Time Nix podcast 🎙️
 
-Learn about and keep up to date with Nix/NixOS:  
-http://fulltimenix.com
+Learn about and keep up to date with Nix/NixOS  
+[fulltimenix.com](http://fulltimenix.com)
 
-## 📺 The Molybdenum Software Show
+## The Molybdenum Software Show 📺
 
-Watch open source contribution in mob programming format:  
-https://molybdenum.software
+Watch open source contribution in mob programming format  
+[molybdenum.software](https://molybdenum.software)
 
-## Expert guidance
+## Remote support 💁
 
-I offer hands-on consulting and training for individuals and teams 👷
-tailored to your real-world challenges 🏗️.
-Pay what suits you—suggested \$25–\$75/hr based on the value ⚖️ delivered.
-[_Please tell me about your problem_](#message-me) 👂.
-__Limited availability__ ⏳
+[Schedule 🗓️](https://calendar.app.google/uyV8rX3PrE7kbV1w6)
+
+## Contact
+
+<p>
+    <a href="https://matrix.to/#/@mightyiam:matrix.org">
+        <picture>
+            <source srcset="https://upload.wikimedia.org/wikipedia/commons/b/b7/Matrix_icon_%28white%29.svg" media="(prefers-color-scheme: dark)" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg" alt="Matrix.org symbol" height="18">
+        </picture>
+        &emsp;<code>@mightyiam:matrix.org</code>
+    </a>
+</p>
+<p>
+    <a href="https://discord.com/users/mightyiam">
+        <img src="https://cdn.brandfetch.io/discord.com/h/10/symbol?c=1idPOuTb89FaSeKoh2S" height="18">&emsp;<code>mightyiam</code>
+    </a>
+</p>
+<p>
+    <a href="https://x.com/mightyiam">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" height="18">&emsp;<code>@mightyiam</code>
+    </a>
+</p>
+<p>
+    <a href="https://t.me/mightyiam">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="18">&emsp;<code>@mightyiam</code>
+    </a>
+</p>
+<p>
+    <a href="mailto:mightyiampresence@gmail.com">
+        📧&emsp;<code>mightyiampresence@gmail.com</code>
+    </a>
+</p>
 
 ## Published 🚢
 
+- [x] __Nixpkgs pr-tracker API__ @jfly @ModProg @Samyak2<br>
+  ([discussion](https://discourse.nixos.org/t/molybdenum-software-nixpkgs-pr-tracker-http-api/72910?u=mightyiam))
+  ([project repo](https://github.com/molybdenumsoftware/pr-tracker))
+- [x] [htnl](https://htnl.molybdenum.software/) — Nix library for making websites
 - [x] Accumulated maintenance work on the [statix](https://github.com/molybdenumsoftware/statix) project
 - [x] __Nixpkgs module system config graph__ @A-jay98 @roberth<br>
   Contributing a feature to the [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) that enables obtaining a tree data structure of the modules that were involved in the evaluation of a configuration.<br>
@@ -56,9 +88,6 @@ __Limited availability__ ⏳
 - [ ] __Nix-powered documentation example testing__ @jfly<br>
   Intended to be first used to test examples in https://nix.dev.<br>
   ([project repo (and branch)](https://github.com/mobusoperandi/eelco/tree/mob/thaigersprint-2025))
-- [ ] __Nixpkgs pr-tracker API__ @jfly @ModProg @Samyak2 @sarcasticadmin<br>
-  Rust project aims to serve the official [Nixpkgs](https://github.com/NixOS/nixpkgs) infrastructure and public user base, making use of GitHub API, [poem](https://github.com/poem-web/poem) and [gitoxide](https://github.com/GitoxideLabs/gitoxide).<br>
-  ([project repo](https://github.com/molybdenumsoftware/pr-tracker))
 
 ## Ideas 💡
 
@@ -69,14 +98,6 @@ __Limited availability__ ⏳
 - [flake-parts](https://flake.parts) documentation overhaul ✒️📖
 - Rust 🦀 library for reactive programming ⚡
 - Nix library for declarative document generation (first output format HTML)
-
-## Message me
-
-- Matrix: [`@mightyiam:matrix.org`](https://matrix.to/#/@mightyiam:matrix.org)
-- Discord: `mightyiam`
-- X: [`mightyiam`](https://x.com/mightyiam)
-- Telegram: [`mightyiam`](https://t.me/mightyiam)
-- Email: [`mightyiampresence@gmail.com`](mailto:mightyiampresence@gmail.com)
 
 ## Extras
 
