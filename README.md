@@ -15,32 +15,40 @@ Watch open source contribution in mob programming format
 ## Contact
 
 <p>
+    <picture>
+        <source srcset="https://upload.wikimedia.org/wikipedia/commons/b/b7/Matrix_icon_%28white%29.svg" media="(prefers-color-scheme: dark)" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg" alt="Matrix.org symbol" height="18">
+    </picture>
+    &emsp;
     <a href="https://matrix.to/#/@mightyiam:matrix.org">
-        <picture>
-            <source srcset="https://upload.wikimedia.org/wikipedia/commons/b/b7/Matrix_icon_%28white%29.svg" media="(prefers-color-scheme: dark)" />
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg" alt="Matrix.org symbol" height="18">
-        </picture>
-        &emsp;<code>@mightyiam:matrix.org</code>
+        <code>@mightyiam:matrix.org</code>
     </a>
 </p>
 <p>
+    <img src="https://cdn.brandfetch.io/discord.com/h/10/symbol?c=1idPOuTb89FaSeKoh2S" height="18">
+    &emsp;
     <a href="https://discord.com/users/mightyiam">
-        <img src="https://cdn.brandfetch.io/discord.com/h/10/symbol?c=1idPOuTb89FaSeKoh2S" height="18">&emsp;<code>mightyiam</code>
+        <code>mightyiam</code>
     </a>
 </p>
 <p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" height="18">
+    &emsp;
     <a href="https://x.com/mightyiam">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" height="18">&emsp;<code>@mightyiam</code>
+        <code>@mightyiam</code>
     </a>
 </p>
 <p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="18">
+    &emsp;
     <a href="https://t.me/mightyiam">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="18">&emsp;<code>@mightyiam</code>
+        <code>@mightyiam</code>
     </a>
 </p>
 <p>
+    📧&emsp;
     <a href="mailto:mightyiampresence@gmail.com">
-        📧&emsp;<code>mightyiampresence@gmail.com</code>
+        <code>mightyiampresence@gmail.com</code>
     </a>
 </p>
 
