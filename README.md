@@ -25,21 +25,27 @@ Watch open source contribution in mob programming format
     </a>
 </p>
 <p>
+    <picture>
     <img src="https://cdn.brandfetch.io/discord.com/h/10/symbol?c=1idPOuTb89FaSeKoh2S" height="18">
+    </picture>
     &emsp;
     <a href="https://discord.com/users/mightyiam">
         <code>mightyiam</code>
     </a>
 </p>
 <p>
+    <picture>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" height="18">
+    </picture>
     &emsp;
     <a href="https://x.com/mightyiam">
         <code>@mightyiam</code>
     </a>
 </p>
 <p>
+    <picture>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="18">
+    </picture>
     &emsp;
     <a href="https://t.me/mightyiam">
         <code>@mightyiam</code>
