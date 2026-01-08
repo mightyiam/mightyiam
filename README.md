@@ -8,9 +8,9 @@ Learn about and keep up to date with Nix/NixOS
 Watch open source contribution in mob programming format  
 [molybdenum.software](https://molybdenum.software)
 
-## Remote support 💁
+## Mentoring 💁
 
-[Schedule 🗓️](https://calendar.app.google/uyV8rX3PrE7kbV1w6)
+[![Contact me on Codementor](https://www.codementor.io/m-badges/mightyiam/im-a-cm-b.svg)](https://www.codementor.io/@mightyiam?refer=badge)
 
 ## Contact
 
