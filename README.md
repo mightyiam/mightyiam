@@ -10,6 +10,8 @@ Watch open source contribution in mob programming format
 
 ## Mentoring 💁
 
+Need help with Nix? Shoot me a message on Codementor!
+
 [![Contact me on Codementor](https://www.codementor.io/m-badges/mightyiam/im-a-cm-b.svg)](https://www.codementor.io/@mightyiam?refer=badge)
 
 ## Contact
