@@ -18,6 +18,8 @@ Need help with Nix? Message [me on Codementor](https://www.codementor.io/@mighty
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/mightyiam/im-a-cm-b.svg)](https://www.codementor.io/@mightyiam?refer=badge)
 
+Hello? Are you reading this? Message me on Codementor now, before demand allows me to increase my rate.
+
 ## Contact
 
 <p>
