@@ -10,7 +10,11 @@ Watch open source contribution in mob programming format
 
 ## Mentoring 💁
 
-Need help with Nix? Shoot me a message on Codementor!
+I have recently restarted my mentoring activity on Codementor.
+To rapidly develop my reputation there, I have set my rate to an extremely opportunous
+3 USD per 15 minutes _and_ am offering first 15 minutes free to first time Codementor customers.
+
+Need help with Nix? Message [me on Codementor](https://www.codementor.io/@mightyiam) with "nix-yesterday".
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/mightyiam/im-a-cm-b.svg)](https://www.codementor.io/@mightyiam?refer=badge)
 
