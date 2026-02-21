@@ -68,24 +68,24 @@ Hello? Are you reading this? Message me on Codementor now, before demand allows 
 
 ## Published 🚢
 
-- [x] __Nixpkgs pr-tracker API__ @jfly @ModProg @Samyak2<br>
+- __Nixpkgs pr-tracker API__ @jfly @ModProg @Samyak2<br>
   ([discussion](https://discourse.nixos.org/t/molybdenum-software-nixpkgs-pr-tracker-http-api/72910?u=mightyiam))
   ([project repo](https://github.com/molybdenumsoftware/pr-tracker))
-- [x] [htnl](https://htnl.molybdenum.software/) — Nix library for making websites
-- [x] Accumulated maintenance work on the [statix](https://github.com/molybdenumsoftware/statix) project
-- [x] __Nixpkgs module system config graph__ @A-jay98 @roberth<br>
+- [htnl](https://htnl.molybdenum.software/) — Nix library for making websites
+- Accumulated maintenance work on the [statix](https://github.com/molybdenumsoftware/statix) project
+- __Nixpkgs module system config graph__ @A-jay98 @roberth<br>
   Contributing a feature to the [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) that enables obtaining a tree data structure of the modules that were involved in the evaluation of a configuration.<br>
   ([discussion](https://discourse.nixos.org/t/obtaining-a-nixpkgs-module-system-configuration-modules-graph/63286?u=mightyiam))
   ([pull request](https://github.com/NixOS/nixpkgs/pull/403839))
-- [x] __mightyiam/files__<br>
+- __mightyiam/files__<br>
   In-repository file generation [flake-parts](https://flake.parts) module<br>
   ([project repo](https://github.com/mightyiam/files))
   ([flake.parts page](https://flake.parts/options/files))
-- [x] __mightyiam/input-branches__<br>
+- __mightyiam/input-branches__<br>
   Workflow and flake-part for flake input patching using imported git branches<br>
   ([project repo](https://github.com/mightyiam/input-branches))
   ([flake.parts page](https://flake.parts/options/input-branches))
-- [x] __Vula Nix packaging__ ([sponsored by NLNet](https://nlnet.nl/project/Vula/))<br>
+- __Vula Nix packaging__ ([sponsored by NLNet](https://nlnet.nl/project/Vula/))<br>
   Nixify the [Vula automatic local network encryption project](https://codeberg.org/vula/vula):
   - Package [highctidh](https://codeberg.org/vula/highctidh) (Vula dependency) in Nix upstream
   - Contribute the dependency tree to Nixpkg
@@ -97,17 +97,17 @@ Hello? Are you reading this? Message me on Codementor now, before demand allows 
 > If you wish to expedite any of these projects and have budget for that
 > please [message me](#message-me).
 
-- [ ] __statix project maintenance__ @A-jay98<br>
+- __statix project maintenance__ @A-jay98<br>
   Maintaining the statix Nix linter and possibly applying it to Nixpkgs<br>
   ([project repo](https://github.com/molybdenumsoftware/statix))
-- [ ] __The Dendritic Pattern__<br>
+- __The Dendritic Pattern__<br>
   Documenting a [flake-parts](https://flake.parts) usage pattern which I believe provides great value for its users.<br>
   ([project repo](https://github.com/mightyiam/dendritic))
-- [ ] __Comparing Nixpkgs module system configs__ @aforemny @roberth @fzakaria @A-jay98<br>
+- __Comparing Nixpkgs module system configs__ @aforemny @roberth @fzakaria @A-jay98<br>
   Contributing a feature to [Nix itself](https://github.com/NixOS/nix) to enable the use case of comparing [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) configurations.<br>
   ([discussion](https://discourse.nixos.org/t/comparing-module-system-configurations/59654/13?u=mightyiam))
   ([pull request](https://github.com/NixOS/nix/pull/13095))
-- [ ] __Nix-powered documentation example testing__ @jfly<br>
+- __Nix-powered documentation example testing__ @jfly<br>
   Intended to be first used to test examples in https://nix.dev.<br>
   ([project repo (and branch)](https://github.com/mobusoperandi/eelco/tree/mob/thaigersprint-2025))
 
