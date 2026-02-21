@@ -68,6 +68,9 @@ Hello? Are you reading this? Message me on Codementor now, before demand allows 
 
 ## Published 🚢
 
+- __The Dendritic Pattern__<br>
+  Documenting a Nixpkgs module system usage pattern which I believe provides great value for its users.<br>
+  ([project repo](https://github.com/mightyiam/dendritic))
 - __Nixpkgs pr-tracker API__ @jfly @ModProg @Samyak2<br>
   ([discussion](https://discourse.nixos.org/t/molybdenum-software-nixpkgs-pr-tracker-http-api/72910?u=mightyiam))
   ([project repo](https://github.com/molybdenumsoftware/pr-tracker))
@@ -100,9 +103,6 @@ Hello? Are you reading this? Message me on Codementor now, before demand allows 
 - __statix project maintenance__ @A-jay98<br>
   Maintaining the statix Nix linter and possibly applying it to Nixpkgs<br>
   ([project repo](https://github.com/molybdenumsoftware/statix))
-- __The Dendritic Pattern__<br>
-  Documenting a [flake-parts](https://flake.parts) usage pattern which I believe provides great value for its users.<br>
-  ([project repo](https://github.com/mightyiam/dendritic))
 - __Comparing Nixpkgs module system configs__ @aforemny @roberth @fzakaria @A-jay98<br>
   Contributing a feature to [Nix itself](https://github.com/NixOS/nix) to enable the use case of comparing [Nixpkgs module system](https://nix.dev/tutorials/module-system/index.html) configurations.<br>
   ([discussion](https://discourse.nixos.org/t/comparing-module-system-configurations/59654/13?u=mightyiam))
