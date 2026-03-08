@@ -128,7 +128,3 @@ Hello? Are you reading this? Message me on Codementor now, before demand allows 
 [![#275 Giving NixOS Linux A Proper Try | Shahar & Farid - YouTube](https://img.youtube.com/vi/KVxk7LFdHtQ/sddefault.jpg)](https://www.youtube.com/watch?v=KVxk7LFdHtQ)
 [![Mob Programming in Summer of Nix 2023 with Lorenz, Dawn, Valentin, Albert, and Auguste - YouTube](https://img.youtube.com/vi/VnT5VxMFGAI/sddefault.jpg)](https://www.youtube.com/watch?v=VnT5VxMFGAI)
 [![Mob Programming to Learn Rust with Shahar Dawn Or - YouTube](https://img.youtube.com/vi/nxNDo-7Fyfk/sddefault.jpg)](https://www.youtube.com/watch?v=nxNDo-7Fyfk)
-
-## Extras
-
-- https://github.com/NixOS/moderation/commit/0bbff82d4ef90438a8adb8882efffc6ccc538646
