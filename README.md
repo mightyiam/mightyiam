@@ -10,15 +10,11 @@ Watch open source contribution in mob programming format
 
 ## Mentoring 💁
 
-I have recently restarted my mentoring activity on Codementor.
-To rapidly develop my reputation there, I have set my rate to an extremely opportunous
-3 USD per 15 minutes _and_ am offering first 15 minutes free to first time Codementor customers.
+I offer 1-on-1 mentoring sessions.
+Topics include Nix, Nixpkgs, NixOS, home-manager, Nixpkgs module system, Nix language and related topics.
+Also, Rust fundamentals and general software development.
 
-Need help with Nix? Message [me on Codementor](https://www.codementor.io/@mightyiam) with "nix-yesterday".
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/mightyiam/im-a-cm-b.svg)](https://www.codementor.io/@mightyiam?refer=badge)
-
-Hello? Are you reading this? Message me on Codementor now, before demand allows me to increase my rate.
+[See rates and book a session here](https://cal.com/mightyiam).
 
 ## Contact
 
