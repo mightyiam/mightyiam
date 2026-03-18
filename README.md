@@ -14,7 +14,7 @@ I offer 1-on-1 mentoring sessions.
 Topics include Nix, Nixpkgs, NixOS, home-manager, Nixpkgs module system, Nix language and related topics.
 Also, Rust fundamentals and general software development.
 
-[See rates and book a session here](https://cal.com/mightyiam).
+[See rates and book a session here](https://cal.com/mightyiam)
 
 ## Contact
 
