@@ -11,7 +11,7 @@ Watch open source contribution in mob programming format
 ## Mentoring 🧑‍🎓
 
 I offer 1-on-1 mentoring sessions.
-Topics include Nix, Nixpkgs, NixOS, home-manager, Nixpkgs module system, Nix language and related topics.
+Topics include Nix, Nixpkgs, NixOS, home-manager, Nixpkgs module system, Nix language and more!
 Also, Rust fundamentals and general software development.
 Sessions are recorded and you get to download a copy for your review.
 
