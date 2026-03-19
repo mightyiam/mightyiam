@@ -8,7 +8,7 @@ Learn about and keep up to date with Nix/NixOS
 Watch open source contribution in mob programming format  
 [molybdenum.software](https://molybdenum.software)
 
-## Mentoring 💁
+## Mentoring 🧑‍🎓
 
 I offer 1-on-1 mentoring sessions.
 Topics include Nix, Nixpkgs, NixOS, home-manager, Nixpkgs module system, Nix language and related topics.
