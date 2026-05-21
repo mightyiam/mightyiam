@@ -5,7 +5,7 @@ Learn about and keep up to date with Nix/NixOS
 
 ## Mentoring 🧑‍🎓
 
-I offer 1-on-1 mentoring sessions.
+I offer 1-on-1 mentoring sessions ([examples here](https://youtube.com/playlist?list=PLCjuFXZ0N7pOBc_5riDm_N-q7lX3h2chX&si=X3x2eJeo0Xz5R-be)).
 Topics include Nix, Nixpkgs, NixOS, home-manager, Nixpkgs module system, Nix language and more!
 Also, Rust fundamentals and general software development.
 Sessions are recorded and you get to download a copy for your review.
