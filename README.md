@@ -10,7 +10,7 @@ Topics include Nix, Nixpkgs, NixOS, home-manager, Nixpkgs module system, Nix lan
 Also, Rust fundamentals and general software development.
 Sessions are recorded and you get to download a copy for your review.
 
-[See rates and book a session here](https://cal.com/mightyiam)
+[Book a session here](https://cal.com/mightyiam)
 
 ## The Molybdenum Software Show 📺
 
