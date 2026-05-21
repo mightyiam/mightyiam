@@ -7,7 +7,7 @@ Learn about and keep up to date with Nix/NixOS at [fulltimenix.com](http://fullt
 I offer private 1-on-1 mentoring sessions ([examples here](https://youtube.com/playlist?list=PLCjuFXZ0N7pOBc_5riDm_N-q7lX3h2chX&si=X3x2eJeo0Xz5R-be)).
 Topics include Nix, Nixpkgs, NixOS, home-manager, the module system, flake-parts and more!
 Also, Rust fundamentals and general software development.
-Sessions are recorded and you get to download a copy for your reference.
+Sessions are recorded and you can download them for your reference.
 
 [__📅 50 minutes__](https://cal.com/mightyiam/mentoring-50m)  
 [__📅 110 minutes__](https://cal.com/mightyiam/mentoring-110m)
