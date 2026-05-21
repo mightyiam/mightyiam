@@ -14,8 +14,8 @@ Sessions are recorded and you can download them for your reference.
 
 ## The Molybdenum Software Show 📺
 
-Watch open source contribution in mob programming format  
-[molybdenum.software](https://molybdenum.software)
+Watch open source contribution in mob programming format at
+[molybdenum.software](https://molybdenum.software).
 
 ## Contact
 
