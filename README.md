@@ -9,8 +9,8 @@ Topics include Nix, Nixpkgs, NixOS, home-manager, the module system, flake-parts
 Also, Rust fundamentals and general software development.
 Sessions are recorded and you get to download a copy for your reference.
 
-- [__📅 50 minutes__](https://cal.com/mightyiam/mentoring-50m)
-- [__📅 110 minutes__](https://cal.com/mightyiam/mentoring-110m)
+[__📅 50 minutes__](https://cal.com/mightyiam/mentoring-50m)
+[__📅 110 minutes__](https://cal.com/mightyiam/mentoring-110m)
 
 ## The Molybdenum Software Show 📺
 
