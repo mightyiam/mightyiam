@@ -31,6 +31,15 @@ Watch open source contribution in mob programming format at
 </p>
 <p>
     <picture>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Signal-Logo-Ultramarine_%282024%29.svg" alt="Signal logo" height="18">
+    </picture>
+    &emsp;
+    <a href="https://signal.me/#eu/e4GvmkNbJg4gm45VRLq3_y91fNGgAInHKltTRZKlpFWLFRWSG79CiIHx1ZD1J2Ou">
+        <code>mightyiam.01</code>
+    </a>
+</p>
+<p>
+    <picture>
     <img src="https://cdn.brandfetch.io/discord.com/h/10/symbol?c=1idPOuTb89FaSeKoh2S" height="18">
     </picture>
     &emsp;
