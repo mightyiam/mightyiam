@@ -6,7 +6,7 @@ Learn about and keep up to date with Nix/NixOS at [fulltimenix.com](http://fullt
 
 - level-up ➕
   - [nix-lang](https://nix.dev/tutorials/nix-language) ⇄ [nixpkgs](https://github.com/NixOS/nixpkgs) ⇄ [`lib`](https://nixos.org/manual/nixpkgs/unstable/#chap-functions) ⇄ [module system](https://nixos.org/manual/nixpkgs/unstable/#module-system)
-  - [NixOS](https://nixos.org/manual/nixos/unstable/) ❘ [Home Manager](https://github.com/nix-community/home-manager) ❘ [NixVim](https://github.com/nix-community/nixvim) ❘ [Stylix](https://github.com/nix-community/stylix) ❘ [flake-parts](https://flake.parts)
+  - [NixOS](https://nixos.org/manual/nixos/unstable/) ❘ [Home Manager](https://github.com/nix-community/home-manager) ❘ [Nixvim](https://github.com/nix-community/nixvim) ❘ [Stylix](https://github.com/nix-community/stylix) ❘ [flake-parts](https://flake.parts)
   - [dendritic pattern](https://github.com/mightyiam/dendritic) & best practices 🥷
   - 🛠️ [nix CLI](https://releases.nixos.org/nix/nix-2.34.7/manual/command-ref/index.html) ❘ [repl](https://releases.nixos.org/nix/nix-2.34.7/manual/command-ref/new-cli/nix3-repl.html) ❘ debugger ❘ [nix-diff](https://github.com/Gabriella439/nix-diff) ❘ [nix-tree](https://github.com/utdemir/nix-tree) 🧰
 - understand and ✅ your actual problems
