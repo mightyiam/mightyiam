@@ -1,9 +1,3 @@
-# Shahar "Dawn" Or
-
-## The Full Time Nix podcast 🎙️
-
-Learn about and keep up to date with Nix/NixOS at [fulltimenix.com](http://fulltimenix.com).
-
 ## Affordable 1-on-1 mentoring 👨‍🏫
 
 - level-up ➕
@@ -32,6 +26,10 @@ Do you need declarative and modular 🍚?
 Have to fix a 🪳 urgently?
 Not doing much with your life?
 Book your first session above ☝
+
+## The Full Time Nix podcast 🎙️
+
+Learn about and keep up to date with Nix/NixOS at [fulltimenix.com](http://fulltimenix.com).
 
 ## The Molybdenum Software Show 📺
 
