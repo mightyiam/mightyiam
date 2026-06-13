@@ -4,7 +4,7 @@
 
 Learn about and keep up to date with Nix/NixOS at [fulltimenix.com](http://fulltimenix.com).
 
-## 1-on-1 mentoring 👨‍🏫
+## Affordable 1-on-1 mentoring 👨‍🏫
 
 - level-up ➕
   - [nix-lang](https://nix.dev/tutorials/nix-language) ⇄ [nixpkgs](https://github.com/NixOS/nixpkgs) ⇄ [`lib`](https://nixos.org/manual/nixpkgs/unstable/#chap-functions) ⇄ [module system](https://nixos.org/manual/nixpkgs/unstable/#module-system)
