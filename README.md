@@ -27,14 +27,19 @@ Have to fix a 🪳 urgently?
 Not doing much with your life?
 Book your first session above ☝
 
-## The Full Time Nix podcast 🎙️
+## The Full Time Nix podcast 📻
 
-Learn about and keep up to date with Nix/NixOS at [fulltimenix.com](http://fulltimenix.com).
+Learn about and stay up to date with the Nix ecosystem
+
+<a href="https://fulltimenix.com">
+    <img alt="Full Time Nix podcast" width="400" src="https://img.transistorcdn.com/zyGlGK45jxgepAylWc8MudsEy3YGdydZZuIdDHQNWKE/rs:fill:0:0:1/w:800/h:800/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81NDUw/YzMwNjE0NjA4NGIx/NzMyZWIwYTVlYzU2/YjFhNi5wbmc.webp">
+</a>
 
 ## The Molybdenum Software Show 📺
 
-Watch open source contribution in mob programming format at
-[molybdenum.software](https://molybdenum.software).
+Watch open source contribution in mob programming format
+
+[![logo](https://avatars.githubusercontent.com/u/134772382?s=400&v=4)](https://molybdenum.software)
 
 ## Contact
 
