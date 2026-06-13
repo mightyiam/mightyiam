@@ -80,7 +80,7 @@ Watch open source contribution in mob programming format at
     </a>
 </p>
 
-## Published 🚢
+## Published contributions 🚢
 
 - __The Dendritic Pattern__<br>
   Documenting a Nixpkgs module system usage pattern which I believe provides great value for its users.<br>
@@ -108,7 +108,7 @@ Watch open source contribution in mob programming format at
   - Contribute the dependency tree to Nixpkg
   - Upstream [the Vula Nix packaging that is currently in NGIpkgs](https://ngi.nixos.org/project/Vula/)
 
-## In-progress projects 🛠️
+## In-progress contributions 🏗️
 
 > [!IMPORTANT]
 > If you wish to expedite any of these projects and have budget for that
