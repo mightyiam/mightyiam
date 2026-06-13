@@ -17,8 +17,18 @@ Learn about and keep up to date with Nix/NixOS at [fulltimenix.com](http://fullt
 - watch 📼 of sessions to maximize learning
 - bonus session 🪎 for every 5 sessions you let me make [public](https://youtube.com/playlist?list=PLCjuFXZ0N7pOBc_5riDm_N-q7lX3h2chX&si=X3x2eJeo0Xz5R-be)
 
-[__📅 50 minutes__](https://cal.com/mightyiam/mentoring-50m)  
-[__📅 110 minutes__](https://cal.com/mightyiam/mentoring-110m)
+### Book your first session here 👇
+
+| | | | |
+| -- | -- | -- | -- |
+| 📅 | __50 minutes__ | $12 | [_pick a time_](https://cal.com/mightyiam/mentoring-50m) |
+| 📅 | __110 minutes__ | $24 | [_pick a time_](https://cal.com/mightyiam/mentoring-110m) |
+
+Do you want a personal infra repo that _makes sense_ 🤯 to you?
+Do you need declarative and modular 🍚?
+Have to fix a 🪳 urgently?
+Not doing much with your life?
+Book your first session above ☝
 
 ## The Molybdenum Software Show 📺
 
