@@ -15,7 +15,7 @@ Learn about and keep up to date with Nix/NixOS at [fulltimenix.com](http://fullt
 - structure your Nix code to fit _your_ 🧠 model
 - learn Rust 🦀 and software development fundamentals 🧑‍💻
 - watch 📼 of sessions to maximize learning
-- extra minutes 🪎 if you let me make our recordings [public](https://youtube.com/playlist?list=PLCjuFXZ0N7pOBc_5riDm_N-q7lX3h2chX&si=X3x2eJeo0Xz5R-be)
+- bonus session 🪎 for every 5 sessions you let me make [public](https://youtube.com/playlist?list=PLCjuFXZ0N7pOBc_5riDm_N-q7lX3h2chX&si=X3x2eJeo0Xz5R-be)
 
 [__📅 50 minutes__](https://cal.com/mightyiam/mentoring-50m)  
 [__📅 110 minutes__](https://cal.com/mightyiam/mentoring-110m)
