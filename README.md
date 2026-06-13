@@ -17,6 +17,9 @@ Learn about and keep up to date with Nix/NixOS at [fulltimenix.com](http://fullt
 - watch 📼 of sessions to maximize learning
 - bonus session 🪎 for every 5 sessions you let me make [public](https://youtube.com/playlist?list=PLCjuFXZ0N7pOBc_5riDm_N-q7lX3h2chX&si=X3x2eJeo0Xz5R-be)
 
+Wherever you're at with your skillset—that's where I'll meet you.
+Don't worry about it.
+
 ### Book your first session here 👇
 
 | | | | |
