@@ -16,10 +16,10 @@ Don't worry about it.
 
 ### Book your first session here 👇
 
-| | | | |
-| -- | -- | -- | -- |
-| 📅 | __50 minutes__ | $12 | [_pick a time_](https://cal.com/mightyiam/mentoring-50m) |
-| 📅 | __110 minutes__ | $24 | [_pick a time_](https://cal.com/mightyiam/mentoring-110m) |
+| ⏲️ | 🏷️ | 📅 |
+| -- | -- | -- |
+| ` 50 mins` | `USD 12.00` | [pick a time and pay](https://cal.com/mightyiam/mentoring-50m) |
+| `110 mins` | `USD 24.00` | [pick a time and pay](https://cal.com/mightyiam/mentoring-110m) |
 
 Do you want a personal infra repo that _makes sense_ 🤯 to you?
 Do you need declarative and modular 🍚?
