@@ -123,6 +123,7 @@ Watch open source contribution in mob programming format
   - Package [highctidh](https://codeberg.org/vula/highctidh) (Vula dependency) in Nix upstream
   - Contribute the dependency tree to Nixpkg
   - Upstream [the Vula Nix packaging that is currently in NGIpkgs](https://ngi.nixos.org/project/Vula/)
+- Participation in multiple [Summer of Nix](https://github.com/ngi-nix/summer-of-nix) editions as facilitator and co-organizer.
 
 ## In-progress contributions 🏗️
 
